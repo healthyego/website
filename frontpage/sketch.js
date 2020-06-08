@@ -80,10 +80,10 @@ if(width/height<1.5){
   div3.position(0,(3*Höhe/anzahllinks)+HE_Height);
   div3.mousePressed(Link3);
 
-  var div4=createDiv();
+  /* var div4=createDiv();
   div4.class('div_style_portrait');
   div4.position(0,(4*Höhe/anzahllinks)+HE_Height);
-  div4.mousePressed(Link4);
+  div4.mousePressed(Link4); */
 }
 
 
