@@ -8,7 +8,7 @@ var font;
 var folder=['association','events','visualizer','socialmedia']; //Namen der Unterpunkte
 var Schrift=['A S S O Z I A T I O N','E V E N T S','V I S U A L I Z E R','S O C I A L M E D I A'];
 var Schriftextra=['ASS OZ IAT ION','EV EN TS','VIS UAL IZER','SOC IAL MED IA'];
-var Schrift_Protrait=['ASSOZIATION','EVENTS','VISUALIZER','SOCIALMEDIA'];
+var Schrift_Protrait=['ASSOZIATION','EVENTS','VISUALIZER','SOCIALMEDIA','HELP CREATE CHANGE'];
 
 
 
