@@ -8,7 +8,7 @@ var font;
 var folder=['instagram','facebook','soundcloud','tumblr']; //Namen der Unterpunkte
 var Schrift=['I N S T A G R A M','F A C E B O O K','S O U N D C L O U D','T U M B L R'];
 var Schriftextra=['IN ST AG RA M','FACE BOOK','SOU NDC LOU D','TU MB LR'];
-var Schrift_Protrait=['INSTAGRAM','FACEBOOK','SOUNDCLOUD','TUMBLR'];
+var Schrift_Protrait=['INSTAGRAM','FACEBOOK','SOUNDCLOUD','TUMBLR','Pop Smoke Memorial T-Shirt'];
 var links=['https://www.instagram.com/haelthyego/','https://www.facebook.com/Healthy-Ego-610348556054955/','https://soundcloud.com/healthy-ego','https://healthyego-studio.tumblr.com'];
 
 
