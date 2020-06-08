@@ -6,8 +6,8 @@ var HE_Logo;
 var font;
 
 var folder=['association','events','visualizer','socialmedia''helpcreatechange']; //Namen der Unterpunkte
-var Schrift=['A S S O Z I A T I O N','E V E N T S','V I S U A L I Z E R','S O C I A L M E D I A','HELPCREATECHANGE'];
-var Schriftextra=['ASS OZ IAT ION','EV EN TS','VIS UAL IZER','SOC IAL MED IA','HELPCREATECHANGE'];
+var Schrift=['A S S O Z I A T I O N','E V E N T S','V I S U A L I Z E R','S O C I A L M E D I A','H E L P C R E A T E C H A N G E'];
+var Schriftextra=['ASS OZ IAT ION','EV EN TS','VIS UAL IZER','SOC IAL MED IA','HELP CREATE CHANGE'];
 var Schrift_Protrait=['ASSOZIATION','EVENTS','VISUALIZER','SOCIALMEDIA','HELPCREATECHANGE'];
 
 
