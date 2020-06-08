@@ -52,10 +52,10 @@ if(width/height>=1.5){
   div3.position((3*Breite/anzahllinks),HE_Height);
   div3.mousePressed(Link3);
 
-  var div4=createDiv();
+  /*var div4=createDiv();
   div4.class('div_style_landscape');
   div4.position((4*Breite/anzahllinks),HE_Height);
-  div4.mousePressed(Link4);
+  div4.mousePressed(Link4);*/
 
   
 }
