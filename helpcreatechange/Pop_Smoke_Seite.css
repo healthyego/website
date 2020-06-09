@@ -56,11 +56,6 @@ body
 	}
 
 
-.button {
-	
-	width: 60%;
-	
-	}
 
 
 .Verein{
@@ -111,6 +106,11 @@ img {
 	margin-right: auto;
 }
 
+.Button {
+	width:50%;
+	display:block;
+	margin:auto;
+}
 
 /* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
 
@@ -144,7 +144,15 @@ img {
 	margin-right: auto;
 }
 
+.Button {
+	width:50%;
+	display:block;
+	margin:auto;
 }
+	
+}
+
+
 
 /* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
 
@@ -178,6 +186,11 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 }
+.Button {
+	width:30%;
+	display:block;
+	margin:auto;
+}	
 
 
 }
