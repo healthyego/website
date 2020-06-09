@@ -70,6 +70,10 @@ body
     padding:0;        
 }
 
+.hier {
+color:black;
+}
+
 /* Mobile Layout: 480px and below. */
   
 .gridContainer {
