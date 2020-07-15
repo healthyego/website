@@ -27,33 +27,64 @@ img, object, embed, video {
 	http://goldengridsystem.com/
 */
 
-/* BILDUNTERSCHRIFT */
-
-figcaption {
-	
-	text-align:center;
-	font-weight:bold;
-	font-size:18px;
-}
-
-
-p {
-	
-	text-align:center;
-}
 
 
 body
 {
     font-family: 'Helvetica', 'Arial', sans-serif;
     background-color: white;
+	
 }
 
 
-.Verein{
-	font-size:10px;
-	color:grey;
+figcaption {
+		text-align:center;
+		text-align:justify;
+		margin-left:14%;
+		margin-right:14%;
+		
 	}
+
+
+.hcclogo {
+	
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+
+.shirt {
+	width:80%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+
+a {
+	text-align:center;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	color:grey;
+
+	}
+	
+p {
+	text-align:center;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;	
+	color:grey;
+	margin-bottom:50px;
+}
+
+
+
+
+
+
 
 .fluid {
 	clear: both;
@@ -68,10 +99,6 @@ body
     list-style-image:none;
     margin:0;
     padding:0;        
-}
-
-.hier {
-color:black;
 }
 
 /* Mobile Layout: 480px and below. */
@@ -92,21 +119,6 @@ color:black;
 }
 .hide_mobile {
     display: none;
-}
-
-img {
-	
-	width: 80%;
-	display:block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-.Button {
-	width:70%;
-	display:block;
-	margin:auto;
-	margin-top:40px;
 }
 
 /* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
@@ -130,26 +142,15 @@ img {
     display: none;
 }
 
-/* BILDGROESSE */
-
-
-img {
-	
-	width: 80%;
+.hcclogo {
+	width:120%;
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-}
 
-.Button {
-	width:70%;
-	display:block;
-	margin:auto;
-}
-	
-}
+	}
 
-
+}
 
 /* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
 
@@ -173,22 +174,4 @@ img {
 .hide_desktop {
     display: none;
 }
-
-/* BILDGROESSE */
-
-img {
-	
-	width: 50%;
-	display:block;
-	margin-left: auto;
-	margin-right: auto;
-}
-.Button {
-	width:30%;
-	display:block;
-	margin:auto;
-	margin-top:60px;
-}	
-
-
 }
